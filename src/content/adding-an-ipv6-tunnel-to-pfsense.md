@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Adding An IPv6 Tunnel To pfSense
-image: img/callum-shaw-555357-unsplash.jpg
 author: [Parker Stephens]
 date: 2020-05-09T12:00:00.000Z
 tags: []
