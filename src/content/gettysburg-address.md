@@ -1,6 +1,6 @@
 ---
 title: 'Secure DNS On A Linux-Based Hotspot'
-author: 'Parker Stephens'
+author: [Parker Stephens]
 tags: []
 image: img/demo1.jpg
 date: '1863-11-19T10:00:00.000Z'
