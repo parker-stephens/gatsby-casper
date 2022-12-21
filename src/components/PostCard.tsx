@@ -15,7 +15,7 @@ import config from '../website-config';
 
 export type PostCardProps = {
   post: PageContext;
-  isLarge?: false;
+  isLarge?: boolean;
 };
 
 export function PostCard({ post, isLarge = false }: PostCardProps) {
