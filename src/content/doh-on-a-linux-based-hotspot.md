@@ -1,9 +1,10 @@
 ---
-title: 'Secure DNS On A Linux-Based Hotspot'
+layout: post
+title: Secure DNS On A Linux-Based Hotspot
+image: img/callum-shaw-555357-unsplash.jpg
 author: [Parker Stephens]
+date: 2022-07-10T12:00:00.000Z
 tags: []
-image: img/demo1.jpg
-date: '1863-11-19T10:00:00.000Z'
 draft: false
 ---
 
