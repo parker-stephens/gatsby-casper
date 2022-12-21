@@ -66,6 +66,7 @@ exports.createPages = async ({ graphql, actions }) => {
             excerpt
             frontmatter {
               title
+              tags
               date
               draft
               excerpt
