@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Github Source
+title: Installing OpenWRT On a Meraki MR16
 image: img/callum-shaw-555357-unsplash.jpg
 author: [Parker Stephens]
 date: 2022-11-09T12:00:00.000Z
 tags: []
-excerpt: Where to find this project on GitHub.
+draft: false
 ---
 
 ### UPDATE 10/21. It appears that Cucumber WiFi (CT WiFi, etc.) was officially shut down September 3, 2021. I believe that leaves the only way to flash with Serial.
