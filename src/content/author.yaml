@@ -1,3 +1,10 @@
+- name: Ghost
+  avatar: avatars/ghost.png
+  bio: The professional publishing platform
+  twitter: TryGhost
+  facebook: ghost
+  website: https://ghost.org/
+  location: San Francisco
 - name: Parker Stephens
   avatar: avatars/ghost.png
   bio: This is another test author with a profile background image
