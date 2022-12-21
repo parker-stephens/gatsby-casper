@@ -1,7 +1,6 @@
 ---
 layout: post
 title: T-Mobile TMOHS1 Hotspot
-image: img/callum-shaw-555357-unsplash.jpg
 author: [Parker Stephens]
 date: 2022-03-26T12:00:00.000Z
 tags: []

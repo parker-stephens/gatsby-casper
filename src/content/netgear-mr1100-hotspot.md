@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Netgear MR1100 Hotspot
-image: img/callum-shaw-555357-unsplash.jpg
 author: [Parker Stephens]
 date: 2022-04-05T12:00:00.000Z
 tags: []

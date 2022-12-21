@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Flashing OpenWRT to Luma Mesh Routers
-image: img/callum-shaw-555357-unsplash.jpg
 author: [Parker Stephens]
 date: 2020-10-14T12:00:00.000Z
 tags: []

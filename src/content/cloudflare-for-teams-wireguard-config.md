@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Cloudflare for Teams Wireguard Config
-image: img/callum-shaw-555357-unsplash.jpg
 author: [Parker Stephens]
 date: 2021-07-23T12:00:00.000Z
 tags: []

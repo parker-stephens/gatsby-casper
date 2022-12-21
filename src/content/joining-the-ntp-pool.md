@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Joining the NTP Pool
-image: img/callum-shaw-555357-unsplash.jpg
 author: [Parker Stephens]
 date: 2021-04-06T12:00:00.000Z
 tags: []

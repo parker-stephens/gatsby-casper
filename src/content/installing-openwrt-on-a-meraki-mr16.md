@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Installing OpenWRT On a Meraki MR16
-image: img/callum-shaw-555357-unsplash.jpg
 author: [Parker Stephens]
 date: 2019-11-09T12:00:00.000Z
 tags: []

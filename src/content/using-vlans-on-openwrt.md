@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Using VLANs on OpenWRT
-image: img/callum-shaw-555357-unsplash.jpg
 author: [Parker Stephens]
 date: 2019-11-23T12:00:00.000Z
 tags: []
